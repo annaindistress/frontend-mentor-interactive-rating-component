@@ -4,12 +4,13 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+	<link rel="stylesheet" href="./styles/styles.css">
 	<title>Frontend Mentor | Interactive rating component</title>
 </head>
 <body>
-	<main>
+	<main class="page">
 		<h1 class="visually-hidden">Interactive rating component</h1>
-		<form class="form section" action="#" method="post">
+		<form class="form section" action="#" method="post" id="rating-form">
 			<h2 class="form__title section__title">How did we do?</h2>
 			<p class="form__desc section__text">Please let us know how we did with your support request. All feedback is appreciated to help us improve our offering!</p>
 			<ul class="form__list">
@@ -36,7 +37,7 @@
 			</ul>
 			<button class="form__button" type="submit">Submit</button>
 		</form>
-		<section class="form-result section">
+		<section class="form-result section hidden">
 			<h2 class="form-result__title">You selected 1 out of 5</h2>
 			<p class="form-result__subtitle section__title">Thank you!</p>
 			<p class="form-result__text section__text">We appreciate you taking the time to give a rating. If you ever need more support, don’t hesitate to get in touch!</p>

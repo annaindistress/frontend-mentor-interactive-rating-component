@@ -31,7 +31,8 @@ Users should be able to:
 
 ### Links
 
-- [Live version on GitHub Pages](https://annaindistress.github.io/frontend-mentor-interactive-rating-component/)
+- [Solution URL](https://github.com/annaindistress/frontend-mentor-interactive-rating-component)
+- [Live Site URL](https://annaindistress.github.io/frontend-mentor-interactive-rating-component/)
 
 ## My process
 

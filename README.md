@@ -10,6 +10,7 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
+- [Author](#author)
 
 ## Overview
 
@@ -40,3 +41,8 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
+
+## Author
+
+- Frontend Mentor - [@annaindistress](https://www.frontendmentor.io/profile/annaindistress)
+- Twitter - [@annaindistress](https://www.twitter.com/annaindistress)
